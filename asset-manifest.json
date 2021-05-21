@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bananaz/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/bananaz/static/js/main.be8a7d07.chunk.js",
+    "main.js.map": "/bananaz/static/js/main.be8a7d07.chunk.js.map",
+    "runtime-main.js": "/bananaz/static/js/runtime-main.d33d7e33.js",
+    "runtime-main.js.map": "/bananaz/static/js/runtime-main.d33d7e33.js.map",
+    "static/js/2.43858265.chunk.js": "/bananaz/static/js/2.43858265.chunk.js",
+    "static/js/2.43858265.chunk.js.map": "/bananaz/static/js/2.43858265.chunk.js.map",
+    "static/js/3.2207ed7a.chunk.js": "/bananaz/static/js/3.2207ed7a.chunk.js",
+    "static/js/3.2207ed7a.chunk.js.map": "/bananaz/static/js/3.2207ed7a.chunk.js.map",
+    "index.html": "/bananaz/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/bananaz/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.43858265.chunk.js.LICENSE.txt": "/bananaz/static/js/2.43858265.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/bananaz/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d33d7e33.js",
+    "static/js/2.43858265.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.be8a7d07.chunk.js"
+  ]
+}
